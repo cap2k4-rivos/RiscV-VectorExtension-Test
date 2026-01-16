@@ -396,3 +396,6 @@ Cycles RVV: 853182
 3. [RISC-V GNU Toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)
 
 ---
+
+## PDF of this documentation
+[LFX Audiomark Challenge Submission](https://drive.google.com/file/d/1uq7dzoUOq0mvmaRQjQTVPd6XDJnmrFWg/view?usp=sharing)
